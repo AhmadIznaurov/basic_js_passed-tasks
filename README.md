@@ -57,3 +57,4 @@ Access Multi-Dimensional Arrays With Indexes
 Manipulate Arrays With push()
 Manipulate Arrays With pop()
 Manipulate Arrays With shift()
+Comparison with the Equality Operator
